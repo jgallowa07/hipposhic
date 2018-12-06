@@ -6,3 +6,13 @@
 
 # Python egg metadata, regenerated from source files by setuptools.
 /*.egg-info
+
+.*.swp
+
+__pycache__
+
+*.trees
+
+dist/
+
+hipposhic/_version.py
